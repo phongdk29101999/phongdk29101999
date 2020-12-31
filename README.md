@@ -1,16 +1,18 @@
-### Hi there 👋
+## こんにちは、私はキム・フォンと申します。　👋
 
-<!--
-**phongdk29101999/phongdk29101999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏛　工科大学の４年生です。
+🎓　現在ウェブ開発に勉強しています。
+💻　最近、機械学習に興味があります。教師のラボで勉強しに行きました。
 
-Here are some ideas to get you started:
+### 個人的なものについて:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠 &nbsp; プログラミング言語：PHP, HTML, CSS, JS, C, C#, SQL, MySQL。
+- 🚀 &nbsp; フルスタックになりたいです。
+- 👨🏻‍💻 &nbsp; 私のプロジェクトは[Github](https://github.com/phongdk29101999)であります。
+- 💬 &nbsp; [ここ](https://github.com/phongdk29101999/phongdk29101999/issues)で何かについて聞いてください。
+- 📫 &nbsp; メール: phong.dk176843@sis.hust.edu.vn
+
+### 私の興味:
+
+- 💻 &nbsp; インタネットで勉強します。
+- 📰 &nbsp; 暇な時、ブログを読みます。
