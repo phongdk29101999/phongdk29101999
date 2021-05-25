@@ -1,18 +1,25 @@
-## こんにちは、私はキム・フォンと申します。　👋
+## Hi, I'm Kim Phong. 👋
 
-🏛　工科大学の４年生です。<br>
-🎓　現在ウェブ開発に勉強しています。 <br>
-💻　最近、機械学習に興味があります。教師のラボで勉強しに行きました。
+🏛　Hanoi University of Science and Technology. <br>
+🎓　I'm currently studying web development. <br>
+💻　Recently, I'm interested in machine learning. I went to study in the teacher's lab.
 
-### 個人的なものについて:
+### About me:
 
-- 🛠 &nbsp; プログラミング言語：PHP, HTML, CSS, JS, C, C#, SQL, MySQL。
-- 🚀 &nbsp; フルスタックになりたいです。
-- 👨🏻‍💻 &nbsp; 私のプロジェクトは[Github](https://github.com/phongdk29101999)であります。
-- 💬 &nbsp; [ここ](https://github.com/phongdk29101999/phongdk29101999/issues)で何かについて聞いてください。
-- 📫 &nbsp; メール: phong.dk176843@sis.hust.edu.vn
+- 🛠 &nbsp; Programming language: PHP, HTML, CSS, JS, C, C#, SQL, MySQL。
+- 🚀 &nbsp; I want to be a fullstack developer.
+- 👨🏻‍💻 &nbsp; My project is in [Github](https://github.com/phongdk29101999).
+- 💬 &nbsp; Ask about something [here](https://github.com/phongdk29101999/phongdk29101999/issues).
 
-### 私の興味:
+### My interest:
 
-- 💻 &nbsp; インタネットで勉強します。
-- 📰 &nbsp; 暇な時、ブログを読みます。
+- 💻 &nbsp; I like studying on the internet
+- 📰 &nbsp; In my free time, I usually read blog, watch anime, ...
+
+### Contact me:
+
+- Mail: phong.dk176843@sis.hust.edu.vn
+- Phone Number: 0941067198
+- [Facebook](https://github.com/phongdk29101999)
+- [ChatWork](https://www.chatwork.com/phongdk29101999)
+- [Instagram](https://www.instagram.com/dokimufon/)
