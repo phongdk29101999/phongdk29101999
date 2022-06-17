@@ -2,11 +2,10 @@
 
 🏛　Hanoi University of Science and Technology. <br>
 🎓　I'm currently studying web development. <br>
-💻　Recently, I'm interested in machine learning. I went to study in the teacher's lab.
 
 ### About me:
 
-- 🛠 &nbsp; Programming language: PHP, HTML, CSS, JS, C, C#, SQL, MySQL。
+- 🛠 &nbsp; Programming language: PHP, Swift, SQL, JS, HTML, CSS, C, C#。
 - 🚀 &nbsp; I want to be a fullstack developer.
 - 👨🏻‍💻 &nbsp; My project is in [Github](https://github.com/phongdk29101999?tab=repositories).
 - 💬 &nbsp; Ask about something [here](https://github.com/phongdk29101999/phongdk29101999/issues).
