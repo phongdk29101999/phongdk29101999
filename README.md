@@ -1,7 +1,7 @@
 ## Hi, I'm Kim Phong. 👋
 
 🏛　Hanoi University of Science and Technology. <br>
-🎓　I'm currently studying web development. <br>
+🎓　I'm currently working about mobile development. <br>
 
 ### About me:
 
