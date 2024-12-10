@@ -17,8 +17,8 @@
 
 ### Contact me:
 
-- Mail: phong.dk176843@sis.hust.edu.vn
+- Mail: phongkimdo2910@gmail.com
 - Phone Number: 0941067198
 - [Facebook](https://www.facebook.com/phongdk29101999)
-- [ChatWork](https://www.chatwork.com/phongdk29101999)
+- [LinkedIn](https://www.linkedin.com/in/phong-kim-do/)
 - [Instagram](https://www.instagram.com/dokimufon/)
